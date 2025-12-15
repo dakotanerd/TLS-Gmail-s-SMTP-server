@@ -10,9 +10,9 @@ password = ""  #replace with your own App password for your gmail; Use an app pa
 #https://support.google.com/accounts/answer/185833?visit_id=638759601307026124-2089972828&p=InvalidSecondFactor&rd=1
 
 # Email content, replace with your own message and subject line
+subject = "Greetings To you!"
 msg = "I love computer networks!"    
 endmsg = "This is the end of the message"
-subject = "Greetings To you!"
 
 # specify Gmail SMTP server details
 mailserver = "smtp.gmail.com"
